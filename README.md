@@ -1,3 +1,3 @@
 # TicTacToe
-TicTacToe game against computer in c++
+TicTacToe game against computer in c++.
 This is not anyhting worth stealing but enjoy...
